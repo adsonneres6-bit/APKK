@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string print_import_channel_name
+string print_import_failed
+string print_import_permission_required
+string print_import_ready_text
+string print_import_ready_title
+string print_import_service_name
+string route_channel_name
+string route_ready_text
+string route_ready_title
+style Theme.Rota123
+xml file_paths
+xml print_service_config

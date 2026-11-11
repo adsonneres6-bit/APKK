@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rota 123</string>
+    <string name="print_import_channel_name">Importação por impressão</string>
+    <string name="print_import_failed">Não foi possível importar o documento impresso.</string>
+    <string name="print_import_permission_required">Permita as notificações do Rota 123 para receber documentos impressos.</string>
+    <string name="print_import_ready_text">Toque para abrir sua rota no Rota 123.</string>
+    <string name="print_import_ready_title">Rota recebida!</string>
+    <string name="print_import_service_name">Rota 123 — Importar PDF</string>
+    <string name="route_channel_name">Rota preparada</string>
+    <string name="route_ready_text">Toque para abrir sua planilha.</string>
+    <string name="route_ready_title">Rota pronta!</string>
+    <style name="Theme.Rota123" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#0f172a</item>
+        <item name="android:statusBarColor">#0f172a</item>
+        <item name="android:navigationBarColor">#0f172a</item>
+    </style>
+</resources>

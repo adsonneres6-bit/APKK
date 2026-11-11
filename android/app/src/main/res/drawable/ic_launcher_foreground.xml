@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Pin body — blue left half -->
+    <path
+        android:fillColor="#1e7fd4"
+        android:pathData="M54,22 C44,22 36,30 36,40 C36,52 50,68 53,71 C53.5,71.5 54,72 54,72 Z" />
+
+    <!-- Pin body — orange right half -->
+    <path
+        android:fillColor="#ff7700"
+        android:pathData="M54,22 C64,22 72,30 72,40 C72,52 58,68 55,71 C54.5,71.5 54,72 54,72 Z" />
+
+    <!-- Dark navy outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0a1f44"
+        android:strokeWidth="1.2"
+        android:pathData="M54,22 C44,22 36,30 36,40 C36,52 50,68 53,71 C53.5,71.5 54.5,71.5 55,71 C58,68 72,52 72,40 C72,30 64,22 54,22 Z" />
+
+    <!-- Inner dark circle -->
+    <path
+        android:fillColor="#0a2050"
+        android:pathData="M54,40 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+
+    <!-- White ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="1.4"
+        android:pathData="M54,40 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+
+    <!-- Lightning bolt -->
+    <path
+        android:fillColor="#ffb800"
+        android:strokeColor="#c06000"
+        android:strokeWidth="0.8"
+        android:strokeLineJoin="round"
+        android:pathData="M57,30 L48,42 L53,42 L49,52 L60,40 L55,40 L63,30 Z" />
+
+</vector>
